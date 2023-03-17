@@ -1,0 +1,38 @@
+body {
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: antiquewhite;
+}
+
+h1 {
+    margin-left: 100px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+
+img {
+    margin-left: 100px;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+p {
+    font-size: 20px;
+    font-style: italic;
+}
+
+ol {
+    font-style: italic;
+    font-size: 18px;
+    background-color: floralwhite;
+}
+
+.steps {
+    font-style: italic;
+}
